@@ -1,4 +1,4 @@
-# Rust SDL2 Hello World
+# SDL2 Rust Hello World
 
 There are a few gotchas when setting up Rust to use SDL2 so I thought I'd share
 my setup.
